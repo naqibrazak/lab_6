@@ -29,7 +29,7 @@
             <td><?php echo $course; ?></td>
         </tr>
         <tr>
-            <td>Year</td>
+            <td>Year of study</td>
             <td><?php echo $year; ?></td>
         </tr>
         <tr>
