@@ -25,14 +25,14 @@
                 'age' => 21
             ],
             [
-                'name' => 'Alice',
+                'name' => 'Bob',
                 'program' => 'BIS',
                 'age' => 20
             ],
             [
                 'name' => 'Raju',
-                'program' => 'BIP',
-                'age' => 21
+                'program' => 'BIT',
+                'age' => 22
             ]
         ];
     ?>
