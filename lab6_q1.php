@@ -10,7 +10,7 @@
         $matric = "AI230071";
         $course = "BIP Bachelor of Computer Science (Software Engineering)";
         $year = "Year 3";
-        $address = "Universiti Tun Hussein Onn Malaysia (UTHM), 86400 Parit Raja, Batu Pahat, Johor, Malaysia"
+        $address = "Universiti Tun Hussein Onn Malaysia (UTHM), 86400 Parit Raja, Batu Pahat, Johor, Malaysia";
     ?>
 
     <h2>My Details</h2>
