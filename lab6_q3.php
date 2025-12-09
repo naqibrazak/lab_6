@@ -13,16 +13,12 @@
         return $area;
     }
 
-    $w = 5;
-    $h = 10;
+    $w = 4;
+    $h = 2;
     $result = calculateArea($w, $h);
+
+    echo"<b>The area of a rectangle with a width of $w and $h is $result</b>";
 ?>
-
-    <h2>Calculate Area of Rectangle</h2>
-
-    <p>Width: <?php echo $w; ?></p>
-    <p>Height: <?php echo $h; ?></p>
-    <p><strong>Area</strong> <?php echo $result;  ?></p>
 
 </body>
 </html>
